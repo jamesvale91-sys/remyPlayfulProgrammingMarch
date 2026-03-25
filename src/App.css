@@ -1,0 +1,21 @@
+.app {
+  padding: 60px;
+  font-family: Arial, sans-serif;
+}
+
+.card {
+  border: 10px solid #ddd;
+  padding: 20px;
+  margin-bottom:20px;
+  border-radius: 8px;
+  cursor:pointer;
+}
+
+.card:hover {
+  background-color:darkgreen
+}
+
+
+.card h2 {
+  margin: 0 0 10px 0;
+}
