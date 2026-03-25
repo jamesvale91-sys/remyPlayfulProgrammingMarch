@@ -34,7 +34,7 @@ function App() {
 
   return (
     <div className="app">
-      <h1>New branch of flash cards</h1>
+      <h1>Flash Cards</h1>
     <form onSubmit={handleSubmit}
     className="add-card-form">
       <input
